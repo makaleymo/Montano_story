@@ -1,7 +1,11 @@
-# Write a program that will add six to the users input and return the result!
+""" Write a program that will ask the user what their name is and then 
+# determine if they are old enough to vote or not and respond appropriately
+
 print ("hello world")
 
 age=int(input("how old are you?"))
 print (2*age)
 
-print ("Wow, you are" + str(age) + "I")
+print ("who are you voting for?")
+
+
